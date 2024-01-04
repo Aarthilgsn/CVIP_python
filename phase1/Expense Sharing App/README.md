@@ -5,7 +5,7 @@ Expense Splitter and Tracker is a Python application built with Tkinter, allowin
 ## Features
 
 * [AddUser](#AddUser)
-* AddExpense](#AddExpense)
+* [AddExpense](#AddExpense)
 * [ShowBalances](#ShowBalance)
 * [ShowExpenses](#ShowExpenses)
 
