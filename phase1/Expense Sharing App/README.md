@@ -4,24 +4,24 @@ Expense Splitter and Tracker is a Python application built with Tkinter, allowin
 
 ## Features
 
--[Add User](#AddUser)
--[Add Expense](#AddExpense)
--[Show Balances](#ShowBalance)
--[Show Expenses](#ShowExpenses)
+* [AddUser](#AddUser)
+* AddExpense](#AddExpense)
+* [ShowBalances](#ShowBalance)
+* [ShowExpenses](#ShowExpenses)
 
-## Add User
+## AddUser
 
 Easily add new participants to the expense tracker.
 
-## Add Expense
+## AddExpense
 
  Record expenses by specifying the payer, amount, and participants.
 
- ## Show Balance
+ ## ShowBalance
 
  View the current balances of all users.
 
- ## Show Expenses
+ ## ShowExpenses
 
  Display a list of recorded expenses with details.
 
@@ -54,7 +54,7 @@ python expense_tracker.py
 
 ## Usage
 
-1.Launch the application and use the provided buttons to navigate through different functionalities.
+1. Launch the application and use the provided buttons to navigate through different functionalities.
 
 2. ## Add User:
 
